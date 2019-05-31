@@ -1,5 +1,6 @@
 # Simple Planning
-#### Update your status and see what others are up to
+#### Update your status and see what others are up to.
+![](/statusList.png)
 
 
 # Local Social
