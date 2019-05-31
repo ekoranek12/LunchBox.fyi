@@ -10,7 +10,7 @@
 
 # No Strings Attatched
 #### Try it out today, no account required!
-![https://itunes.apple.com/app/id1463306793](/appStore.png)
+[![](/appStore.png)](https://itunes.apple.com/app/id1463306793)
 
 
 [Privacy Policy](/privacy.md)
