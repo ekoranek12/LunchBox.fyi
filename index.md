@@ -4,8 +4,8 @@
 
 
 # Local Social
-#### Add the people you eat with by scanning each other's codes
-
+#### Add the people you eat with by scanning each other's codes.
+![](/scanCode.png)
 
 
 [Privacy Policy](/privacy.md)
