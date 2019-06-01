@@ -13,4 +13,4 @@
 [![](/appStore.png)](https://itunes.apple.com/app/id1463306793)
 
 
-[Privacy Policy](/privacy.md)
+[Get Help with the App](/help.md) or [View the Privacy Policy](/privacy.md)
